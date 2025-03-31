@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vladyslav</h1>
+<h1 align="center">Hi <img src="https://github.com/vlnau/vlnau/blob/main/gif/hand-waving-emoji.gif" alt="Hand waving Emoji"  width="24px" height="24px" />, I'm Vladyslav</h1>
 I deliver full-stack web apps with clean code, smooth UX, and fast shipping — I handle both user needs and dev expectations.
 
 ### Let’s Connect
