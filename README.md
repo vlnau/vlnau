@@ -1,9 +1,7 @@
 <h1 align="center">
   Hi <img src="https://github.com/vlnau/vlnau/blob/main/gif/wave.gif"
-  alt="Hand waving Emoji"
-  width="24"
-  height="24" />,
-  I'm Vladyslav
+  alt="Wave" width="24" height="24" />,
+  I'm Vladysláv Naúmenko
 </h1>
 
 <p align="center">
@@ -14,15 +12,58 @@
   Open to interesting C++ opportunities — feel free to reach out.
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/vlnau/"><img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--linkedin.svg" alt="LinkedIn" width="64" height="64"></a>&nbsp;&nbsp;
-<a href="https://github.com/vlnau"><img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--github.svg" alt="GitHub" width="64" height="64"></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/vlnau/"><img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--leetcode.svg" alt="LeetCode" width="64" height="64"></a>&nbsp;&nbsp;
-<a href="mailto:vladyslav.nau@gmail.com"><img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--gmail.svg" alt="Email" width="64" height="64"></a>
-</p>
+<table align="center">
+<tr>
+
+<td align="center" width="120">
+  <a href="https://www.linkedin.com/in/vlnau/">
+    <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--linkedin.svg"
+         width="36"
+         height="36"
+         alt="LinkedIn">
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/vlnau/"><b>LinkedIn</b></a>
+</td>
+
+<td align="center" width="120">
+  <a href="https://github.com/vlnau">
+    <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--github.svg"
+         width="36"
+         height="36"
+         alt="GitHub">
+  </a>
+  <br>
+  <a href="https://github.com/vlnau"><b>GitHub</b></a>
+</td>
+
+<td align="center" width="120">
+  <a href="https://leetcode.com/u/vlnau/">
+    <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--leetcode.svg"
+         width="36"
+         height="36"
+         alt="LeetCode">
+  </a>
+  <br>
+  <a href="https://leetcode.com/u/vlnau/"><b>LeetCode</b></a>
+</td>
+
+<td align="center" width="120">
+  <a href="mailto:vladyslav.nau@gmail.com">
+    <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--gmail.svg"
+         width="36"
+         height="36"
+         alt="Email">
+  </a>
+  <br>
+  <a href="mailto:vladyslav.nau@gmail.com"><b>Email</b></a>
+</td>
+
+</tr>
+</table>
 
 <p align="center">
   <a href="mailto:vladyslav.nau@gmail.com">
-    <b>vladyslav.nau@gmail.com</b>
+    vladyslav.nau@gmail.com
   </a>
 </p>
