@@ -17,10 +17,12 @@
 
 <td align="center" width="120">
   <a href="https://www.linkedin.com/in/vlnau/">
-    <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--linkedin.svg"
-         width="36"
-         height="36"
-         alt="LinkedIn">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://github.com/vlnau/vlnau/blob/main/svg/bxl--linkedin-white.svg">
+      <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--linkedin.svg"
+           width="36" height="36" alt="LinkedIn">
+    </picture>
   </a>
   <br>
   <a href="https://www.linkedin.com/in/vlnau/"><b>LinkedIn</b></a>
@@ -28,10 +30,12 @@
 
 <td align="center" width="120">
   <a href="https://github.com/vlnau">
-    <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--github.svg"
-         width="36"
-         height="36"
-         alt="GitHub">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://github.com/vlnau/vlnau/blob/main/svg/bxl--github-white.svg">
+      <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--github.svg"
+           width="36" height="36" alt="GitHub">
+    </picture>
   </a>
   <br>
   <a href="https://github.com/vlnau"><b>GitHub</b></a>
@@ -39,10 +43,12 @@
 
 <td align="center" width="120">
   <a href="https://leetcode.com/u/vlnau/">
-    <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--leetcode.svg"
-         width="36"
-         height="36"
-         alt="LeetCode">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://github.com/vlnau/vlnau/blob/main/svg/bxl--leetcode-white.svg">
+      <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--leetcode.svg"
+           width="36" height="36" alt="LeetCode">
+    </picture>
   </a>
   <br>
   <a href="https://leetcode.com/u/vlnau/"><b>LeetCode</b></a>
@@ -50,10 +56,12 @@
 
 <td align="center" width="120">
   <a href="mailto:vladyslav.nau@gmail.com">
-    <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--gmail.svg"
-         width="36"
-         height="36"
-         alt="Email">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://github.com/vlnau/vlnau/blob/main/svg/bxl--gmail-white.svg">
+      <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--gmail.svg"
+           width="36" height="36" alt="Email">
+    </picture>
   </a>
   <br>
   <a href="mailto:vladyslav.nau@gmail.com"><b>Email</b></a>
