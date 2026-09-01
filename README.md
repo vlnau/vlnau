@@ -1,6 +1,8 @@
 <h1 align="center">
   Hi <img src="https://github.com/vlnau/vlnau/blob/main/gif/wave.gif"
-  alt="Hand waving Emoji" width="24" height="24" />,
+  alt="Hand waving Emoji"
+  width="24"
+  height="24" />,
   I'm Vladyslav
 </h1>
 
@@ -13,25 +15,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--linkedin.svg"
-       alt="LinkedIn"
-       width="64"
-       height="64" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--github.svg"
-       alt="GitHub"
-       width="64"
-       height="64" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--leetcode.svg"
-       alt="LeetCode"
-       width="64"
-       height="64" />
-  &nbsp;&nbsp;
-  <img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--gmail.svg"
-       alt="Email"
-       width="64"
-       height="64" />
+<a href="https://www.linkedin.com/in/vlnau/"><img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--linkedin.svg" alt="LinkedIn" width="64" height="64"></a>&nbsp;&nbsp;
+<a href="https://github.com/vlnau"><img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--github.svg" alt="GitHub" width="64" height="64"></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/vlnau/"><img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--leetcode.svg" alt="LeetCode" width="64" height="64"></a>&nbsp;&nbsp;
+<a href="mailto:vladyslav.nau@gmail.com"><img src="https://github.com/vlnau/vlnau/blob/main/svg/bxl--gmail.svg" alt="Email" width="64" height="64"></a>
 </p>
 
 <p align="center">
